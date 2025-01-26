@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "@trpc/client": "^11.0.0-rc.729",
-    "@trpc/server": "^11.0.0-rc.729"
+    "@trpc/server": "^11.0.0-rc.729",
+    "zod": "^3.24.1"
   }
 }
